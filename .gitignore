@@ -11,9 +11,6 @@ __pycache__/
 # Streamlit files
 .streamlit/
 
-# Model files (optional)
-*.pkl
-
 # OS files
 .DS_Store
 Thumbs.db
